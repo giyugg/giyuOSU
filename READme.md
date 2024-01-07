@@ -3,3 +3,10 @@ Take note that this code is not associated in any programming languages and this
 osu! is a free to play online rhythm game, which you can use as a rhythm trainer online with lots of gameplay music! Check out osu! https://osu.ppy.sh
 
 -cpol description, just modified a lil bit.
+
+Softwares that I use on my osu!
+
+* Danser - for more modified replay recording application
+https://github.com/Wieku/danser-go
+
+* 
