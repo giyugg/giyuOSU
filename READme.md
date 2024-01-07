@@ -5,7 +5,14 @@ osu! is a free to play online rhythm game, which you can use as a rhythm trainer
 
 Softwares that I use on my osu!
 
-* Danser - for more modified replay recording application
+* Danser - for modified replay recording application
 https://github.com/Wieku/danser-go
 
-* 
+* chat4osu! - irc chat for tournaments
+https://gitlab.com/hallowatcher/chat4osu
+
+* Rewind - osu! replay system but more complex and informative
+https://github.com/abstrakt8/rewind
+
+* gosumemory - for pp counter in osu!
+https://github.com/l3lackShark/gosumemory
