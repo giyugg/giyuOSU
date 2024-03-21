@@ -28,4 +28,4 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 # WHAT DOES THE FILES MEAN HERE?
 
 * Just of my codes in osu! for bbcode.
-    - [latest_me.bbcode](https://github.com/kyleacuna/giyuOSU/blob/main/latest_me.bbcode)
+    - [latest_me.bbcode](https://github.com/kyleacuna/giyuOSU/blob/main/latest_me.bbcode) - my latest bbcode file for my [osu!profile](https://osu.ppy.sh/u/GiyuGG)
