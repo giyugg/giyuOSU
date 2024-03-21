@@ -29,3 +29,5 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 * Just of my codes in osu! for bbcode.
     - [latest_me.bbcode](https://github.com/kyleacuna/giyuOSU/blob/main/latest_me.bbcode) - my latest bbcode file for my [osu!profile](https://osu.ppy.sh/u/GiyuGG)
+    - [old_me.bbcode](https://github.com/kyleacuna/giyuOSU/blob/main/old_me.bbcode) - my old bbcode file for my [osu!profile](https://osu.ppy.sh/u/GiyuGG)
+    - [signature.bbcode](https://github.com/kyleacuna/giyuOSU/blob/main/signature.bbcode) - my signature bbcode for my [osu!profile](https://osu.ppy.sh/u/GiyuGG). used in forums on comments
