@@ -20,3 +20,12 @@ https://github.com/l3lackShark/gosumemory
 // Github `.md` Basic writing and formatting syntax
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+# WHAT IS THIS?
+
+* It's just my bbcodes for my osu things, personally as I categorize it. 
+
+# WHAT DOES THE FILES MEAN HERE?
+
+* Just of my codes in osu! for bbcode.
+    - (`[latest_me.bbcode]`(https://github.com/kyleacuna/giyuOSU/blob/main/latest_me.bbcode))
